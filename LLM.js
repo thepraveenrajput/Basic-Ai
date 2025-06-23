@@ -1,4 +1,4 @@
-// AIzaSyA7F8lq0nAxufDXmkN978P7Fre149q0bFc
+
 import "dotenv/config";
 import { GoogleGenAI } from "@google/genai";
 import readlineSync from "readline-sync";
